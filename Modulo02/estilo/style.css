@@ -73,6 +73,7 @@ header > p{
 nav{
     background-color: var(--cor5);
     padding: 10px;
+    background-attachment:fixed;
 
 }
 nav > a  {
